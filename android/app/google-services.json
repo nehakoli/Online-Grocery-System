@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747830802306",
+    "firebase_url": "https://online-grocery-system-2a921.firebaseio.com",
+    "project_id": "online-grocery-system-2a921",
+    "storage_bucket": "online-grocery-system-2a921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747830802306:android:3252cba2fd9a38266dc19b",
+        "android_client_info": {
+          "package_name": "com.flutterapp.online_grocery_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747830802306-j3lfhg79ku4qfn04didhak2k3ls2828i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterapp.online_grocery_system",
+            "certificate_hash": "92ab456558745a5f32420eef6b8d0a4b0175e51f"
+          }
+        },
+        {
+          "client_id": "747830802306-cm85nt7mj8t6dc1tbc5f6ucse2d5vtr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAybzj_Qt3ACbYKcPqOud-dA3DfbWLq9ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747830802306-cm85nt7mj8t6dc1tbc5f6ucse2d5vtr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747830802306-mumam07j3kkqucg0s311dshuv75lel26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterapp.onlineGrocerySystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

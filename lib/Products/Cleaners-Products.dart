@@ -1,0 +1,77 @@
+import 'package:flutter/material.dart';
+import 'package:online_grocery_system/categories_page/product_class.dart';
+
+List<Product> cleanersproducts = [
+  Product(
+      id: 1001,
+      title: "Wheel Detergent Powder",
+      price: 108,
+      size: 12,
+      description: "Wheel Green Detergent Powder (Lemon and Jasmine), 1 kg ",
+      image: "App Images/Grocery Categories/10. Cleaners/image1001.jpg",
+      color: Colors.purpleAccent),
+  Product(
+      id: 1002,
+      title: "Ariel Detergent Powder",
+      price: 135,
+      size: 12,
+      description: "Ariel Colour Detergent Washing Powder - 500 g with Detergent Washing Powder - 200 g",
+      image: "App Images/Grocery Categories/10. Cleaners/image1002.jpg",
+      color: Colors.purpleAccent),
+  Product(
+      id: 1003,
+      title: "Exo Dish Wash Bar",
+      price: 48,
+      size: 12,
+      description: "Exo Round Dish Wash Bar, 500g Box with free scrubber",
+      image: "App Images/Grocery Categories/10. Cleaners/image1003.jpg",
+      color: Colors.purpleAccent),
+  Product(
+      id: 1004,
+      title: "Harpic Cleaners",
+      price: 340,
+      size: 12,
+      description: "Harpic Bathroom Cleaner (Lemon) - 1 L and Harpic Powerplus Toilet Cleaner Original, 1 L",
+      image: "App Images/Grocery Categories/10. Cleaners/image1004.jpg",
+      color: Colors.purpleAccent),
+  Product(
+      id: 1005,
+      title: "Lizol Floor Cleaner",
+      price: 172,
+      size: 12,
+      description: "Lizol Disinfectant Floor Cleaner, Citrus, 975 ml",
+      image: "App Images/Grocery Categories/10. Cleaners/image1005.jpg",
+      color: Colors.purpleAccent),
+  Product(
+      id: 1006,
+      title: "Rin Detergent Powder",
+      price: 70,
+      size: 12,
+      description: "Rin Detergent Powder, 1Kg",
+      image: "App Images/Grocery Categories/10. Cleaners/image1006.jpg",
+      color: Colors.purpleAccent),
+  Product(
+      id: 1007,
+      title: "Surf Excel Matic",
+      price: 329,
+      size: 12,
+      description: "Surf Excel Matic Top Load Detergent Washing Powder, 2 Kg",
+      image: "App Images/Grocery Categories/10. Cleaners/image1007.png",
+      color: Colors.purpleAccent),
+  Product(
+      id: 1008,
+      title: "Tide Plus Detergent",
+      price: 90,
+      size: 12,
+      description: "Tide Plus Detergent Washing Powder with Extra Power Lemon and Mint Pack - 1 kg",
+      image: "App Images/Grocery Categories/10. Cleaners/image1008.jpg",
+      color: Colors.purpleAccent),
+  Product(
+      id: 1009,
+      title: "Vim Gel",
+      price: 155,
+      size: 12,
+      description: "Vim Dishwash Gel - 750 ml (Lemon)",
+      image: "App Images/Grocery Categories/10. Cleaners/image1009.jpg",
+      color: Colors.purpleAccent),
+];
